@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-struct Student
+struct DictionaryStudent
 {
     public string StudentNumber;
     public string Name;
@@ -9,7 +9,7 @@ struct Student
     public int YearLevel;
 }
 
-class Program
+class Problem2
 {
     static void Main()
     {
