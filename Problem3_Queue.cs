@@ -8,7 +8,7 @@ struct StudentRequest
     public string RequestType;
 }
 
-class Program
+class Problem3
 {
     static void Main()
     {
