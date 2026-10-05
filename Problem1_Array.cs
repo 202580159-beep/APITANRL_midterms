@@ -8,7 +8,7 @@ struct Student
     public int YearLevel;
 }
 
-class Program
+class Problem1
 {
     static void Main()
     {
